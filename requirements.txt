@@ -1,0 +1,2 @@
+gchapero-models @ git+https://github.com/gchaperon/myfs-data@71e0e4d4040898c6f66389d0a26c6d79a71f5a29
+myfs @ git+https://github.com/gchaperon/myfs@2497fbe6d2b7d914ac2e0c73c5eec57ceaaa50cd
